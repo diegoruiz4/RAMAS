@@ -1,5 +1,5 @@
 // v4 de cada alumno hay que pedir 3 notas -> se sacan los que sus 3 notas estan por delante de la media
-// PRUEBAAAAAAAAAAAAAAAAAAA
+// error
 Algoritmo vector_v4
 	// Declaramos variables
 	Definir suma_notas,media Como Real;
